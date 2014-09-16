@@ -22,6 +22,7 @@ All changes below are for the pre-game site only.
 : Changed the layout of the register form to look a little more sleek.
 ? Recommending that the hiatus post be removed from "README.md" to attract help.
 + Added a small amount of formatting to "logout.php".
++ Added "local_content_SCREENSHOT.png" in "img" to show the difference between local and hosted site.
 
 *- Future Plans ---------------------------------------*
 TODO: Clean up the stylesheet "main.css" for easier reading and alteration.
